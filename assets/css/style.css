@@ -22,8 +22,9 @@ header{
     letter-spacing: 0.1rem;
     display: flex;
     justify-content: space-between;
-    padding : 1.5rem 0.5rem;
-    background-color: #FFCDBE;
+    padding : 1rem 2rem;
+    align-items: center;
+    border-bottom: 2px solid gray;
     nav{
         width: 60%;
         ul{
@@ -65,8 +66,8 @@ main{
 
 footer{
     text-align: center;
-    background-color: #8E0E1B;
-    color: white;
+    padding: 2rem 0;
+    border-top: 2px solid gray;
 }
 
 form{
