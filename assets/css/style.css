@@ -67,3 +67,29 @@ footer{
     background-color: #8E0E1B;
     margin-top: 0;
 }
+
+form{
+    margin-top: 2rem;
+    background: #FFF;
+    padding: 10rem 2rem;
+    fieldset{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        label{
+            text-align: left;
+            margin: 1rem 0;
+        }
+
+        input{
+            border: none;
+            background-color: aliceblue;
+            line-height: 2rem;
+        }
+        legend{
+            display: none;
+        }
+    }
+}
