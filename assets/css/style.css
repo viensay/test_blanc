@@ -97,6 +97,7 @@ form{
             background-color: aliceblue;
             line-height: 2rem;
             box-shadow: inset 0.1em 0.2em #F4F5F7;
+            width: 100%;
         }
         legend{
             display: none;
